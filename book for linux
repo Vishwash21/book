@@ -1,0 +1,47 @@
+1. End User:
+    - UNIX, concepts and applications by Sumitabha Das
+    - A Practical Guide to Linux Commands, Editors, and Shell Programming by Mark G. Sobell
+
+2. Developer:
+    a. System Programming
+        - Advanced Programming in the Unix Environment by W. Richard Stevens
+        - UNIX system programming using C++ by Terrence Chan
+        - Advanced Unix: A Programmer's Guide by Stephen Prata
+        - UNIX Network Programming by Andrew M. Rudoff, Bill Fenner, and W. Richard Stevens
+        - Computer Networks by Andrew S. Tanenbaum
+        - The Unix Programming Environment by Brian Kernighan and Rob Pike
+        - Beginning Linux Programming by Neil Matthew, Richard Stones
+        - Linux System Programming: Talking Directly to the Kernel and C Library by Robert Love
+        - Linux Kernel Development by Robert Love
+        - Linux Kernel Programming by Michael Beck, Harald Bohme, Mirko Dziadzka, Ulrich Kunitz, Robert Magnus, Dirk Verworner
+        - The Linux Programming Interface by Michael Kerrisk
+        - The Definitive Guide to Linux Network Programming by John W. Turner, Keir Davis, and Nathan Yocom
+    b. GUI Programming
+        - X Windows Programming Volume 1 to Volume 9 by Andria Nye, Dan Heller, David Flagan, Tim O'Reilly, Paula Fergusson
+        - X Window System programming by Nabajyoti Barkakati
+        - X Window System Toolkit: The Complete Programmer's Guide and Specification by Paul J. Asente and Ralph R. Swick
+        - Opengl Programming for the X Windows System by Mark J. Kilgard
+        - Programming with Qt: Writing Portable GUI applications on Unix and Win32 by Matthias Kalle Dalheimer
+        - C++ GUI Programming with Qt by Jasmin Blanchette, Mark Summerfield
+    c. Device Driver
+        - Writing UNIX Device Drivers by George Pajari
+        - The Linux Kernel Module Programming Guide by Peter Jay Salzman, Michael Burian, Ori Pomerantz 
+        - Linux Device Drivers: Where the Kernel Meets the Hardware by Jonathan Corbet, Alessandro Rubin, Greg Kroah-Hartman
+        - Essential Linux Device Drivers (Prentice Hall Open Source Software Development) by Sreekrishnan Venkateswaran
+
+3. Administrator:
+    - Linux Kernel in a Nutshell by Greg Kroah-Hartman
+    - Building Embedded Linux Systems by Karim Yaghmou
+    - Managing Projects with GNU make 3e: The Power of GNU Make for Building Anything by Robert Mecklenburg, Andy Oram, Steve Talbott
+    - Linux Kernel Primer, The: A Top-Down Approach for x86 and PowerPC Architectures by Claudia Rodriguez, Gordon Fischer, Steven Smolski
+
+4. System Design:
+    - The Design of the UNIX Operating System by Maurice J. Bach
+    - UNIX Internals: The New Frontiers by Uresh Vahalia
+    - The Magic Garden Explained: The Internals of Unix System V Release 4 : An Open Systems Design by Berny Goodheart, James Cox
+    - Lion's Commentary on UNIX with Source Code by John Lions
+    - Solaris Internals: Solaris 10 and OpenSolaris Kernel Architecture by Richard McDougall, Jim Mauro
+    - The Design and Implementation of the FreeBSD Operating System by George Neville-Neil and Marshall Kirk McKusick
+    - Operating Systems: Design and Implementation by Albert S. Woodhull and Andrew S. Tanenbaum
+    - Linux Core Kernel Commentary by Scott Maxwell
+    - Understanding the Linux Kernel by Daniel Pierre Bovet and Marco Cesati
